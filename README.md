@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faiz</h1>
+<h1 align="center">Hi 👋, I'm mune-kyun</h1>
 - 🌱 I’m currently playing around with any stack/tech that I find interesting.
 
 <h3 align="left">Connect with me:</h3>
